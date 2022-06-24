@@ -1,6 +1,6 @@
 {
   "name": "score-header",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "score first reusable package",
   "main": "header.js",
   "scripts": {
@@ -15,6 +15,12 @@
   ],
   "author": "uzair",
   "license": "ISC",
+  "peerDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.17.12",
+    "@babel/preset-react": "^7.17.12",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0"
+  },
   "bugs": {
     "url": "https://github.com/Muhammad-uzair029/score-package/issues"
   },
