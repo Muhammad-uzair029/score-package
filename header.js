@@ -1,17 +1,5 @@
-import React from "react";
-import {
-    Nav,
-    Navbar,
-    NavDropdown,
-    Form,
-    FormControl,
-    Button,
-} from "react-bootstrap";
+function scoreHeader() {
+    return "Asd"
+}
+module.exports = scoreHeader
 
-const Header = () => {
-    return (
-        <p>ahsjdhagsjdh</p>
-    );
-};
-
-export default Header;
