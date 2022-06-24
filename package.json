@@ -1,0 +1,26 @@
+{
+  "name": "score-header",
+  "version": "1.0.0",
+  "description": "score first reusable package",
+  "main": "header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-uzair029/score-package.git"
+  },
+  "keywords": [
+    "score"
+  ],
+  "author": "uzair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-uzair029/score-package/issues"
+  },
+  "homepage": "https://github.com/Muhammad-uzair029/score-package#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0"
+  }
+}
